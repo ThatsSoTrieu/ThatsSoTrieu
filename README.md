@@ -25,9 +25,6 @@
 *    Photography
 *    Disc Golf
 
-<div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThatsSoTrieu&count_private=true&show_icons=true&include_all_commits=true&theme=dark&bg_color=ffffff00">
-</div>
 ---
 
 ### :desktop_computer:	What I'm running in my Homelab 
