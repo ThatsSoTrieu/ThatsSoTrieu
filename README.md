@@ -33,7 +33,12 @@
   <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/portainer.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/ubiquiti.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/nginxproxymanager.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/plex-black.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/plex-white.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/bitwarden.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/mikrotik.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/overseerr.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/synology-white.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/tenable.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 </div>
 
